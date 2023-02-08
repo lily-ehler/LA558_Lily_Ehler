@@ -9,7 +9,7 @@ This map was created using OpenStreetMap and placing a marker on the desired sit
 
 ### Geospatial PDF
 
-descript
+This map was created in QGIS and exported as a geospatial PDF. It shows a choropleth map of 2021 population data for each of Malta's local administrative units (LAUs). The shapefile was joined to a dataset from Eurostat, with the fields refactored to display the data as a choropleth.  
 
 [Web Map 2](https://lily-ehler.github.io/LA558_Lily_Ehler/Assignments/Assignment1/assign3a.pdf)
 
