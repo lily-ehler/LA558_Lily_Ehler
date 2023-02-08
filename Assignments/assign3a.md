@@ -1,5 +1,3 @@
-<base target="_blank">
-
 # Assignment 3a
 
 ### OpenStreetMap
