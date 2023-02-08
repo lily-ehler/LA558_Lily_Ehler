@@ -9,7 +9,7 @@ This map was created using OpenStreetMap and placing a marker on the desired sit
 
 ### Geospatial PDF
 
-pdf
+    <a href="[placeholder.com](https://lily-ehler.github.io/LA558_Lily_Ehler/Assignments/Assignment1/assign3a.html)" target="_blank">Web Map 2</a>
 
 
 ### GIS2Web
