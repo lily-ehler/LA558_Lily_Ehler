@@ -8,4 +8,5 @@ Graduate Student in Urban Design at Iowa State University
 - Intro to R Coding [Exercise 4a](Exercises/4a/ex4a.md)
 
 ### Assignments:
-- OpenStreetMap, Geospatial PDFs, & GIS2Web [Assignment 3a](Assignments/assign3a.md)
+- OpenStreetMap, Geospatial PDFs, & GIS2Web [Assignment 1](Assignments/assign3a.md)
+- Maps & Plots using R [Assignment 2](Assignments/assign2.md)
