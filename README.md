@@ -9,4 +9,4 @@ Graduate Student in Urban Design at Iowa State University
 
 ### Assignments:
 - OpenStreetMap, Geospatial PDFs, & GIS2Web [Assignment 1](Assignments/assign3a.md)
-- Maps & Plots using R [Assignment 2](Assignments/assign3a.md)
+- Maps & Plots using R [Assignment 2](Assignments/assign2.md)
