@@ -2,6 +2,7 @@
 # L A 558
 # Assignment 2
 
+# Script for Map
 install.packages(c("tidyverse", "readxl", "sf"))
 
 library("sf")
@@ -34,3 +35,20 @@ ggplot(assign2map) +
   ggtitle("Average Salary for Full Time Teachers in Iowa") + 
   theme_void() +
   theme(plot.title=element_text(hjust=0.5))
+
+# Script for Plot
+teacher_data_2 <- read_excel("iowa_teacher_salaries_22_23.xlsx", "Plot")
+
+perc_adv_degree <- teacher_data_2 %>%
+  group_by(district_name2) %>%
+  mutate(PercentAdvDegree = round(FT_adv_degree2 / FT_teachers2, 3)*100) %>%
+  as.data.frame()
+
+plot1 <- ggplot(data=perc_adv_degree, aes(x=district_name2, y=PercentAdvDegree)) +
+  geom_bar(stat="identity", width=0.5, fill = "blue") +
+  geom_text(aes(label=PercentAdvDegree), vjust=2.0, size=3.5,color="white")+
+  theme_minimal()
+plot1
+
+plot1 + labs(title="Percent of Iowa Teachers with Advanced Degrees", x = "School District", y = "Percentage")
+
