@@ -2,7 +2,7 @@
 
 ### Plotting Data in R
 
-This map was created using OpenStreetMap and placing a ma
+Using data sourced from the [Iowa Department of Education](https://educateiowa.gov/data-reporting/education-statistics-pk-12), I cleaned up the file in Excel before 
 
 [Web Map 1](
 
