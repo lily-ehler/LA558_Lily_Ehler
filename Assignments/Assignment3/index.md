@@ -1,10 +1,24 @@
 # Assignment 3
 
-### Plotting Data in R
+### Plotting Data using TidyCensus
 
-Using data sourced from 
-https://www.niu.edu/clas/cseas/resources/countries.shtml
+Usin
 
+![Plot1](Assignment3/assign3plot1.png)
+
+
+### Mapping Data using TidyCensus
+
+uascwfugieu
+
+![Plot2](Assignment3/assign3plot2.png)
+
+
+### Plotting Excel Data using R
+
+eufuwegh
+
+![Plot3](Assignment3/assign3plot3.png)
 
 dogs & cats
 https://europeanpetfood.org/about/statistics/
