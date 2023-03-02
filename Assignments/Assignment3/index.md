@@ -4,21 +4,21 @@
 
 Usin
 
-![Plot1](Assignment3/assign3plot1.png)
+![Plot1](assign3plot1.png)
 
 
 ### Mapping Data using TidyCensus
 
 uascwfugieu
 
-![Plot2](Assignment3/assign3plot2.png)
+![Plot2](assign3plot2.png)
 
 
 ### Plotting Excel Data using R
 
 eufuwegh
 
-![Plot3](Assignment3/assign3plot3.png)
+![Plot3](assign3plot3.png)
 
 dogs & cats
 https://europeanpetfood.org/about/statistics/
