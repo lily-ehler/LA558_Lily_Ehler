@@ -2,6 +2,7 @@
 # L A 558
 # Assignment 3
 
+
 # Script for TidyCensus Graph
 install.packages(c("tidycensus", "tidyverse"))
 library(tidycensus)
@@ -61,4 +62,78 @@ GR_SE_asia <- get_idb(
 #                   <html>     <head>         <titl
 # (right here) ------^
 
+
 # Script for TidyCensus Map
+install.packages(c("tidycensus", "tidyverse"))
+library(tidycensus)
+library(tidyverse)
+library(ggplot2)
+
+install.packages("RColorBrewer") 
+library("RColorBrewer") 
+
+census_api_key('0af4f7c302526ddc6cfe8f1196b0804138f5459b', overwrite = TRUE, install = TRUE)
+
+vars <- load_variables(2018, "acs1")
+View(vars)
+
+dc_surround <- c("DC", "MD", "WV", "NC", "VA", "DE")
+
+cons_med_earn <- get_acs(
+  state = dc_surround,
+  geography = "county",
+  variables = "B24031_005",
+  year = 2018, 
+  geometry = TRUE
+)
+
+plot1 <- ggplot(data = cons_med_earn) +
+  geom_sf(aes(fill = estimate)) + 
+  scale_fill_distiller(palette = "RdPu", 
+                       direction = 1) +
+  theme(rect = element_blank(), axis.ticks = element_blank(), 
+        axis.text.x = element_blank(), axis.text.y = element_blank()) +
+  labs(title = "Construction Industry Earnings 2018", 
+       fill="Median Earnings",
+       subtitle = str_wrap("A comparison of median earnings in the construction
+       industry in five states surrounding Washington DC.", 80))
+plot1
+
+# Script for Excel-data Graph
+install.packages(c("tidyverse", "readxl", "sf"))
+
+library("sf")
+library(tidyverse)
+library("readxl")
+library(ggplot2)
+library("dplyr")  
+
+dogs_cats <- read_excel("dogs_n_cats.xlsx")
+head(dogs_cats)
+
+animals <- pull(dogs_cats,animal)                 
+print(animals)
+animal_V <- as.factor(animals) 
+
+country1 <- pull(dogs_cats,country)
+print(country1)
+country_V <- as.factor(country1)
+
+dogs_cats2 <- dogs_cats
+dogs_cats2["animal2"] <- animal_V
+dogs_cats2["country2"] <- country_V
+head(dogs_cats2)
+
+plot2 <- dogs_cats2 %>% 
+  group_by(animal2)
+
+plot2 %>%
+  ggplot( aes(x=year, y=amount, group=animal2, color=animal2)) +
+  geom_line(size=1.5) +
+  geom_point(shape=21, color="black", fill="black", size=2) +
+  theme_minimal() +
+  facet_wrap(~ country2) +
+  labs(title="Comparison of Pet Numbers in Italy and the UK, 2015-2021", 
+       x = "Year", 
+       y = "Number of Pets in Millions",
+       color = "Pet")
