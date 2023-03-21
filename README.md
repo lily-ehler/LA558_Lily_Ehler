@@ -1,4 +1,4 @@
-# Chris Seeger's LA558 Portfolio
+# L A 558 Portfolio - Lily Ehler
 
 This repo is a collection of my work from L A 588 Spring 2023.
 
