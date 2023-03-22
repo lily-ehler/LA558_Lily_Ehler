@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>Assignment 4</h1>
+<h3>Leaflet Map with Markers</h3>
+This map shows the various locations I visited to sketch while studying 
+abroad in Rome. Beginning <br>with a CSV file of the data points, I created a 
+map with a specified base map (Esri World Gray Canvas) <br>and pop ups showing 
+the site name and the type of building. I then created a custom pencil icon 
+from a <br>PNG for the data points using a feature within the Leaflet library.
+<br><br>
+<iframe src="drawing.html" width="650" height="450" style="border:2px solid black;">
+</iframe>
+
+<br> <br>
+
+<h3>Leaflet Choropleth Map</h3>
+This choropleth map depicts the average real estate value per square meter
+in Euros for each "zone <br>urbanistiche" or "urban zone" within the city of Rome. After loading
+the shapefile into R, I set the bins <br>(breaks), color palette, labels, and bounds before coding
+the Leaflet map. I used the Esri World Gray <br>Canvas as the base map, added highlight 
+interactions showing the zone urbanistiche name and average <br>real estate value, and added a 
+legend.
+<br><br>
+<iframe src="realestate.html" width="650" height="450" style="border:2px solid black;">
+</iframe> 
+</body>
+</html>
