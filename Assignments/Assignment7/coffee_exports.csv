@@ -1,325 +1,325 @@
-Country,Year,Export,Type,Month
-Angola,1990,84,Arabica/Robusta,April
-Bolivia,1990,156,Arabica,April
-Brazil,1990,"16,936",Arabica/Robusta,April
-Burundi,1990,585,Arabica/Robusta,April
-Cameroon,1990,"2,611",Arabica/Robusta,October
-Central African Republic,1990,197,Robusta,October
-Colombia,1990,"13,944",Arabica,October
-Congo,1990,2,Robusta,July
-Costa Rica,1990,"2,266",Arabica,October
-Cote d'Ivoire,1990,"4,283",Robusta,October
-Cuba,1990,182,Arabica,July
-Democratic Republic of Congo,1990,"1,839",Arabica/Robusta,October
-Dominican Republic,1990,535,Arabica/Robusta,July
-Ecuador,1990,"1,784",Arabica/Robusta,April
-El Salvador,1990,"2,510",Arabica,October
-Equatorial Guinea,1990,7,Robusta,October
-Ethiopia,1990,"1,074",Arabica,October
-Gabon,1990,2,Robusta,October
-Ghana,1990,11,Robusta,October
-Guatemala,1990,"3,240",Arabica/Robusta,October
-Guinea,1990,122,Robusta,October
-Guyana,1990,0,Robusta,October
-Haiti,1990,191,Arabica,July
-Honduras,1990,"1,735",Arabica,October
-India,1990,"1,979",Arabica/Robusta,October
-Indonesia,1990,"6,903",Arabica/Robusta,April
-Jamaica,1990,15,Arabica,October
-Kenya,1990,"1,969",Arabica,October
-Laos,1990,98,Robusta,October
-Liberia,1990,22,Robusta,October
-Madagascar,1990,863,Robusta,April
-Malawi,1990,124,Arabica,April
-Mexico,1990,"3,683",Arabica/Robusta,October
-Nepal,1990,0,Arabica,October
-Nicaragua,1990,671,Arabica,October
-Nigeria,1990,4,Robusta,October
-Panama,1990,132,Arabica,October
-Papua New Guinea,1990,"1,051",Arabica/Robusta,April
-Paraguay,1990,263,Arabica,April
-Peru,1990,"1,105",Arabica,April
-Philippines,1990,168,Arabica/Robusta,July
-Sierra Leone,1990,140,Robusta,October
-Sri Lanka,1990,19,Arabica/Robusta,October
-Tanzania,1990,"1,019",Arabica/Robusta,July
-Thailand,1990,"1,001",Arabica/Robusta,October
-Timor-Leste,1990,0,Arabica,April
-Togo,1990,239,Robusta,October
-Trinidad & Tobago,1990,30,Robusta,October
-Uganda,1990,"2,353",Arabica/Robusta,October
-Venezuela,1990,278,Arabica,October
-Vietnam,1990,"1,145",Arabica/Robusta,October
-Yemen,1990,50,Arabica,October
-Zambia,1990,24,Arabica,July
-Zimbabwe,1990,251,Arabica,April
-Angola,1995,41,Arabica/Robusta,April
-Bolivia,1995,94,Arabica,April
-Brazil,1995,"14,468",Arabica/Robusta,April
-Burundi,1995,528,Arabica/Robusta,April
-Cameroon,1995,407,Arabica/Robusta,October
-Central African Republic,1995,232,Robusta,October
-Colombia,1995,"9,814",Arabica,October
-Congo,1995,19,Robusta,July
-Costa Rica,1995,"2,067",Arabica,October
-Cote d'Ivoire,1995,"2,494",Robusta,October
-Cuba,1995,122,Arabica,July
-Democratic Republic of Congo,1995,"1,051",Arabica/Robusta,October
-Dominican Republic,1995,451,Arabica/Robusta,July
-Ecuador,1995,"1,540",Arabica/Robusta,April
-El Salvador,1995,"1,807",Arabica,October
-Equatorial Guinea,1995,3,Robusta,October
-Ethiopia,1995,"1,276",Arabica,October
-Gabon,1995,3,Robusta,October
-Ghana,1995,38,Robusta,October
-Guatemala,1995,"3,701",Arabica/Robusta,October
-Guinea,1995,152,Robusta,October
-Guyana,1995,0,Robusta,October
-Haiti,1995,152,Arabica,July
-Honduras,1995,"1,796",Arabica,October
-India,1995,"2,467",Arabica/Robusta,October
-Indonesia,1995,"3,947",Arabica/Robusta,April
-Jamaica,1995,26,Arabica,October
-Kenya,1995,"1,450",Arabica,October
-Laos,1995,165,Robusta,October
-Liberia,1995,0,Robusta,October
-Madagascar,1995,585,Robusta,April
-Malawi,1995,92,Arabica,April
-Mexico,1995,"3,626",Arabica/Robusta,October
-Nepal,1995,0,Arabica,October
-Nicaragua,1995,681,Arabica,October
-Nigeria,1995,15,Robusta,October
-Panama,1995,181,Arabica,October
-Papua New Guinea,1995,"1,002",Arabica/Robusta,April
-Paraguay,1995,21,Arabica,April
-Peru,1995,"1,760",Arabica,April
-Philippines,1995,57,Arabica/Robusta,July
-Sierra Leone,1995,71,Robusta,October
-Sri Lanka,1995,22,Arabica/Robusta,October
-Tanzania,1995,745,Arabica/Robusta,July
-Thailand,1995,"1,210",Arabica/Robusta,October
-Timor-Leste,1995,0,Arabica,April
-Togo,1995,200,Robusta,October
-Trinidad & Tobago,1995,4,Robusta,October
-Uganda,1995,"3,079",Arabica/Robusta,October
-Venezuela,1995,97,Arabica,October
-Vietnam,1995,"3,546",Arabica/Robusta,October
-Yemen,1995,77,Arabica,October
-Zambia,1995,21,Arabica,July
-Zimbabwe,1995,157,Arabica,April
-Angola,2000,22,Arabica/Robusta,April
-Bolivia,2000,106,Arabica,April
-Brazil,2000,"18,016",Arabica/Robusta,April
-Burundi,2000,444,Arabica/Robusta,April
-Cameroon,2000,"1,205",Arabica/Robusta,October
-Central African Republic,2000,203,Robusta,October
-Colombia,2000,"9,177",Arabica,October
-Congo,2000,0,Robusta,July
-Costa Rica,2000,"1,965",Arabica,October
-Cote d'Ivoire,2000,"6,110",Robusta,October
-Cuba,2000,113,Arabica,July
-Democratic Republic of Congo,2000,281,Arabica/Robusta,October
-Dominican Republic,2000,155,Arabica/Robusta,July
-Ecuador,2000,697,Arabica/Robusta,April
-El Salvador,2000,"2,537",Arabica,October
-Equatorial Guinea,2000,0,Robusta,October
-Ethiopia,2000,"1,982",Arabica,October
-Gabon,2000,1,Robusta,October
-Ghana,2000,91,Robusta,October
-Guatemala,2000,"4,852",Arabica/Robusta,October
-Guinea,2000,292,Robusta,October
-Guyana,2000,1,Robusta,October
-Haiti,2000,73,Arabica,July
-Honduras,2000,"2,879",Arabica,October
-India,2000,"4,229",Arabica/Robusta,October
-Indonesia,2000,"5,358",Arabica/Robusta,April
-Jamaica,2000,29,Arabica,October
-Kenya,2000,"1,328",Arabica,October
-Laos,2000,255,Robusta,October
-Liberia,2000,4,Robusta,October
-Madagascar,2000,216,Robusta,April
-Malawi,2000,61,Arabica,April
-Mexico,2000,"5,304",Arabica/Robusta,October
-Nepal,2000,0,Arabica,October
-Nicaragua,2000,"1,367",Arabica,October
-Nigeria,2000,7,Robusta,October
-Panama,2000,72,Arabica,October
-Papua New Guinea,2000,"1,043",Arabica/Robusta,April
-Paraguay,2000,5,Arabica,April
-Peru,2000,"2,362",Arabica,April
-Philippines,2000,5,Arabica/Robusta,July
-Sierra Leone,2000,40,Robusta,October
-Sri Lanka,2000,2,Arabica/Robusta,October
-Tanzania,2000,740,Arabica/Robusta,July
-Thailand,2000,970,Arabica/Robusta,October
-Timor-Leste,2000,1,Arabica,April
-Togo,2000,283,Robusta,October
-Trinidad & Tobago,2000,3,Robusta,October
-Uganda,2000,"2,513",Arabica/Robusta,October
-Venezuela,2000,38,Arabica,October
-Vietnam,2000,"11,618",Arabica/Robusta,October
-Yemen,2000,58,Arabica,October
-Zambia,2000,65,Arabica,July
-Zimbabwe,2000,117,Arabica,April
-Angola,2005,5,Arabica/Robusta,April
-Bolivia,2005,84,Arabica,April
-Brazil,2005,"26,198",Arabica/Robusta,April
-Burundi,2005,371,Arabica/Robusta,April
-Cameroon,2005,704,Arabica/Robusta,October
-Central African Republic,2005,47,Robusta,October
-Colombia,2005,"10,871",Arabica,October
-Congo,2005,0,Robusta,July
-Costa Rica,2005,"1,480",Arabica,October
-Cote d'Ivoire,2005,"1,754",Robusta,October
-Cuba,2005,24,Arabica,July
-Democratic Republic of Congo,2005,158,Arabica/Robusta,October
-Dominican Republic,2005,42,Arabica/Robusta,July
-Ecuador,2005,993,Arabica/Robusta,April
-El Salvador,2005,"1,280",Arabica,October
-Equatorial Guinea,2005,0,Robusta,October
-Ethiopia,2005,"2,435",Arabica,October
-Gabon,2005,0,Robusta,October
-Ghana,2005,18,Robusta,October
-Guatemala,2005,"3,466",Arabica/Robusta,October
-Guinea,2005,279,Robusta,October
-Guyana,2005,1,Robusta,October
-Haiti,2005,25,Arabica,July
-Honduras,2005,"2,392",Arabica,October
-India,2005,"2,829",Arabica/Robusta,October
-Indonesia,2005,"6,744",Arabica/Robusta,April
-Jamaica,2005,15,Arabica,October
-Kenya,2005,673,Arabica,October
-Laos,2005,237,Robusta,October
-Liberia,2005,1,Robusta,October
-Madagascar,2005,96,Robusta,April
-Malawi,2005,21,Arabica,April
-Mexico,2005,"1,985",Arabica/Robusta,October
-Nepal,2005,1,Arabica,October
-Nicaragua,2005,"1,003",Arabica,October
-Nigeria,2005,8,Robusta,October
-Panama,2005,90,Arabica,October
-Papua New Guinea,2005,"1,200",Arabica/Robusta,April
-Paraguay,2005,24,Arabica,April
-Peru,2005,"2,369",Arabica,April
-Philippines,2005,34,Arabica/Robusta,July
-Sierra Leone,2005,20,Robusta,October
-Sri Lanka,2005,3,Arabica/Robusta,October
-Tanzania,2005,712,Arabica/Robusta,July
-Thailand,2005,375,Arabica/Robusta,October
-Timor-Leste,2005,18,Arabica,April
-Togo,2005,164,Robusta,October
-Trinidad & Tobago,2005,1,Robusta,October
-Uganda,2005,"2,369",Arabica/Robusta,October
-Venezuela,2005,22,Arabica,October
-Vietnam,2005,"13,432",Arabica/Robusta,October
-Yemen,2005,78,Arabica,October
-Zambia,2005,106,Arabica,July
-Zimbabwe,2005,71,Arabica,April
-Angola,2010,4,Arabica/Robusta,April
-Bolivia,2010,78,Arabica,April
-Brazil,2010,"33,167",Arabica/Robusta,April
-Burundi,2010,307,Arabica/Robusta,April
-Cameroon,2010,794,Arabica/Robusta,October
-Central African Republic,2010,95,Robusta,October
-Colombia,2010,"7,822",Arabica,October
-Congo,2010,0,Robusta,July
-Costa Rica,2010,"1,200",Arabica,October
-Cote d'Ivoire,2010,"1,912",Robusta,October
-Cuba,2010,5,Arabica,July
-Democratic Republic of Congo,2010,162,Arabica/Robusta,October
-Dominican Republic,2010,41,Arabica/Robusta,July
-Ecuador,2010,"1,202",Arabica/Robusta,April
-El Salvador,2010,"1,082",Arabica,October
-Equatorial Guinea,2010,0,Robusta,October
-Ethiopia,2010,"3,324",Arabica,October
-Gabon,2010,1,Robusta,October
-Ghana,2010,7,Robusta,October
-Guatemala,2010,"3,468",Arabica/Robusta,October
-Guinea,2010,406,Robusta,October
-Guyana,2010,1,Robusta,October
-Haiti,2010,9,Arabica,July
-Honduras,2010,"3,349",Arabica,October
-India,2010,"4,647",Arabica/Robusta,October
-Indonesia,2010,"5,489",Arabica/Robusta,April
-Jamaica,2010,15,Arabica,October
-Kenya,2010,531,Arabica,October
-Laos,2010,288,Robusta,October
-Liberia,2010,7,Robusta,October
-Madagascar,2010,74,Robusta,April
-Malawi,2010,8,Arabica,April
-Mexico,2010,"2,498",Arabica/Robusta,October
-Nepal,2010,1,Arabica,October
-Nicaragua,2010,"1,712",Arabica,October
-Nigeria,2010,3,Robusta,October
-Panama,2010,65,Arabica,October
-Papua New Guinea,2010,929,Arabica/Robusta,April
-Paraguay,2010,0,Arabica,April
-Peru,2010,"3,817",Arabica,April
-Philippines,2010,6,Arabica/Robusta,July
-Sierra Leone,2010,58,Robusta,October
-Sri Lanka,2010,2,Arabica/Robusta,October
-Tanzania,2010,556,Arabica/Robusta,July
-Thailand,2010,370,Arabica/Robusta,October
-Timor-Leste,2010,68,Arabica,April
-Togo,2010,198,Robusta,October
-Trinidad & Tobago,2010,1,Robusta,October
-Uganda,2010,"2,657",Arabica/Robusta,October
-Venezuela,2010,19,Arabica,October
-Vietnam,2010,"14,229",Arabica/Robusta,October
-Yemen,2010,44,Arabica,October
-Zambia,2010,18,Arabica,July
-Zimbabwe,2010,7,Arabica,April
-Angola,2015,11,Arabica/Robusta,April
-Bolivia,2015,30,Arabica,April
-Brazil,2015,"37,563",Arabica/Robusta,April
-Burundi,2015,230,Arabica/Robusta,April
-Cameroon,2015,390,Arabica/Robusta,October
-Central African Republic,2015,43,Robusta,October
-Colombia,2015,"12,716",Arabica,October
-Congo,2015,0,Robusta,July
-Costa Rica,2015,"1,128",Arabica,October
-Cote d'Ivoire,2015,"1,418",Robusta,October
-Cuba,2015,13,Arabica,July
-Democratic Republic of Congo,2015,128,Arabica/Robusta,October
-Dominican Republic,2015,19,Arabica/Robusta,July
-Ecuador,2015,869,Arabica/Robusta,April
-El Salvador,2015,576,Arabica,October
-Equatorial Guinea,2015,0,Robusta,October
-Ethiopia,2015,"2,985",Arabica,October
-Gabon,2015,0,Robusta,October
-Ghana,2015,40,Robusta,October
-Guatemala,2015,"2,961",Arabica/Robusta,October
-Guinea,2015,152,Robusta,October
-Guyana,2015,2,Robusta,October
-Haiti,2015,3,Arabica,July
-Honduras,2015,"5,030",Arabica,October
-India,2015,"5,262",Arabica/Robusta,October
-Indonesia,2015,"8,379",Arabica/Robusta,April
-Jamaica,2015,12,Arabica,October
-Kenya,2015,712,Arabica,October
-Laos,2015,403,Robusta,October
-Liberia,2015,4,Robusta,October
-Madagascar,2015,59,Robusta,April
-Malawi,2015,18,Arabica,April
-Mexico,2015,"2,458",Arabica/Robusta,October
-Nepal,2015,2,Arabica,October
-Nicaragua,2015,"1,753",Arabica,October
-Nigeria,2015,3,Robusta,October
-Panama,2015,50,Arabica,October
-Papua New Guinea,2015,711,Arabica/Robusta,April
-Paraguay,2015,0,Arabica,April
-Peru,2015,"2,790",Arabica,April
-Philippines,2015,15,Arabica/Robusta,July
-Sierra Leone,2015,54,Robusta,October
-Sri Lanka,2015,0,Arabica/Robusta,October
-Tanzania,2015,709,Arabica/Robusta,July
-Thailand,2015,578,Arabica/Robusta,October
-Timor-Leste,2015,68,Arabica,April
-Togo,2015,178,Robusta,October
-Trinidad & Tobago,2015,2,Robusta,October
-Uganda,2015,"3,596",Arabica/Robusta,October
-Venezuela,2015,1,Arabica,October
-Vietnam,2015,"21,944",Arabica/Robusta,October
-Yemen,2015,52,Arabica,October
-Zambia,2015,3,Arabica,July
-Zimbabwe,2015,11,Arabica,April
+Country,Year,Export,Type,Month,Region
+Angola,1990,84,Arabica/Robusta,April,Africa & Middle East
+Bolivia,1990,156,Arabica,April,Central & South America
+Brazil,1990,"16,936",Arabica/Robusta,April,Central & South America
+Burundi,1990,585,Arabica/Robusta,April,Africa & Middle East
+Cameroon,1990,"2,611",Arabica/Robusta,October,Africa & Middle East
+Central African Republic,1990,197,Robusta,October,Africa & Middle East
+Colombia,1990,"13,944",Arabica,October,Central & South America
+Congo,1990,2,Robusta,July,Africa & Middle East
+Costa Rica,1990,"2,266",Arabica,October,Central & South America
+Cote d'Ivoire,1990,"4,283",Robusta,October,Africa & Middle East
+Cuba,1990,182,Arabica,July,Central & South America
+Democratic Republic of Congo,1990,"1,839",Arabica/Robusta,October,Africa & Middle East
+Dominican Republic,1990,535,Arabica/Robusta,July,Central & South America
+Ecuador,1990,"1,784",Arabica/Robusta,April,Central & South America
+El Salvador,1990,"2,510",Arabica,October,Central & South America
+Equatorial Guinea,1990,7,Robusta,October,Africa & Middle East
+Ethiopia,1990,"1,074",Arabica,October,Africa & Middle East
+Gabon,1990,2,Robusta,October,Africa & Middle East
+Ghana,1990,11,Robusta,October,Africa & Middle East
+Guatemala,1990,"3,240",Arabica/Robusta,October,Central & South America
+Guinea,1990,122,Robusta,October,Africa & Middle East
+Guyana,1990,0,Robusta,October,Central & South America
+Haiti,1990,191,Arabica,July,Central & South America
+Honduras,1990,"1,735",Arabica,October,Central & South America
+India,1990,"1,979",Arabica/Robusta,October,Southeast Asia
+Indonesia,1990,"6,903",Arabica/Robusta,April,Southeast Asia
+Jamaica,1990,15,Arabica,October,Central & South America
+Kenya,1990,"1,969",Arabica,October,Africa & Middle East
+Laos,1990,98,Robusta,October,Southeast Asia
+Liberia,1990,22,Robusta,October,Africa & Middle East
+Madagascar,1990,863,Robusta,April,Africa & Middle East
+Malawi,1990,124,Arabica,April,Africa & Middle East
+Mexico,1990,"3,683",Arabica/Robusta,October,Central & South America
+Nepal,1990,0,Arabica,October,Southeast Asia
+Nicaragua,1990,671,Arabica,October,Central & South America
+Nigeria,1990,4,Robusta,October,Africa & Middle East
+Panama,1990,132,Arabica,October,Central & South America
+Papua New Guinea,1990,"1,051",Arabica/Robusta,April,Southeast Asia
+Paraguay,1990,263,Arabica,April,Central & South America
+Peru,1990,"1,105",Arabica,April,Central & South America
+Philippines,1990,168,Arabica/Robusta,July,Southeast Asia
+Sierra Leone,1990,140,Robusta,October,Africa & Middle East
+Sri Lanka,1990,19,Arabica/Robusta,October,Southeast Asia
+Tanzania,1990,"1,019",Arabica/Robusta,July,Africa & Middle East
+Thailand,1990,"1,001",Arabica/Robusta,October,Southeast Asia
+Timor-Leste,1990,0,Arabica,April,Southeast Asia
+Togo,1990,239,Robusta,October,Africa & Middle East
+Trinidad & Tobago,1990,30,Robusta,October,Central & South America
+Uganda,1990,"2,353",Arabica/Robusta,October,Africa & Middle East
+Venezuela,1990,278,Arabica,October,Central & South America
+Vietnam,1990,"1,145",Arabica/Robusta,October,Southeast Asia
+Yemen,1990,50,Arabica,October,Africa & Middle East
+Zambia,1990,24,Arabica,July,Africa & Middle East
+Zimbabwe,1990,251,Arabica,April,Africa & Middle East
+Angola,1995,41,Arabica/Robusta,April,Africa & Middle East
+Bolivia,1995,94,Arabica,April,Central & South America
+Brazil,1995,"14,468",Arabica/Robusta,April,Central & South America
+Burundi,1995,528,Arabica/Robusta,April,Africa & Middle East
+Cameroon,1995,407,Arabica/Robusta,October,Africa & Middle East
+Central African Republic,1995,232,Robusta,October,Africa & Middle East
+Colombia,1995,"9,814",Arabica,October,Central & South America
+Congo,1995,19,Robusta,July,Africa & Middle East
+Costa Rica,1995,"2,067",Arabica,October,Central & South America
+Cote d'Ivoire,1995,"2,494",Robusta,October,Africa & Middle East
+Cuba,1995,122,Arabica,July,Central & South America
+Democratic Republic of Congo,1995,"1,051",Arabica/Robusta,October,Africa & Middle East
+Dominican Republic,1995,451,Arabica/Robusta,July,Central & South America
+Ecuador,1995,"1,540",Arabica/Robusta,April,Central & South America
+El Salvador,1995,"1,807",Arabica,October,Central & South America
+Equatorial Guinea,1995,3,Robusta,October,Africa & Middle East
+Ethiopia,1995,"1,276",Arabica,October,Africa & Middle East
+Gabon,1995,3,Robusta,October,Africa & Middle East
+Ghana,1995,38,Robusta,October,Africa & Middle East
+Guatemala,1995,"3,701",Arabica/Robusta,October,Central & South America
+Guinea,1995,152,Robusta,October,Africa & Middle East
+Guyana,1995,0,Robusta,October,Central & South America
+Haiti,1995,152,Arabica,July,Central & South America
+Honduras,1995,"1,796",Arabica,October,Central & South America
+India,1995,"2,467",Arabica/Robusta,October,Southeast Asia
+Indonesia,1995,"3,947",Arabica/Robusta,April,Southeast Asia
+Jamaica,1995,26,Arabica,October,Central & South America
+Kenya,1995,"1,450",Arabica,October,Africa & Middle East
+Laos,1995,165,Robusta,October,Southeast Asia
+Liberia,1995,0,Robusta,October,Africa & Middle East
+Madagascar,1995,585,Robusta,April,Africa & Middle East
+Malawi,1995,92,Arabica,April,Africa & Middle East
+Mexico,1995,"3,626",Arabica/Robusta,October,Central & South America
+Nepal,1995,0,Arabica,October,Southeast Asia
+Nicaragua,1995,681,Arabica,October,Central & South America
+Nigeria,1995,15,Robusta,October,Africa & Middle East
+Panama,1995,181,Arabica,October,Central & South America
+Papua New Guinea,1995,"1,002",Arabica/Robusta,April,Southeast Asia
+Paraguay,1995,21,Arabica,April,Central & South America
+Peru,1995,"1,760",Arabica,April,Central & South America
+Philippines,1995,57,Arabica/Robusta,July,Southeast Asia
+Sierra Leone,1995,71,Robusta,October,Africa & Middle East
+Sri Lanka,1995,22,Arabica/Robusta,October,Southeast Asia
+Tanzania,1995,745,Arabica/Robusta,July,Africa & Middle East
+Thailand,1995,"1,210",Arabica/Robusta,October,Southeast Asia
+Timor-Leste,1995,0,Arabica,April,Southeast Asia
+Togo,1995,200,Robusta,October,Africa & Middle East
+Trinidad & Tobago,1995,4,Robusta,October,Central & South America
+Uganda,1995,"3,079",Arabica/Robusta,October,Africa & Middle East
+Venezuela,1995,97,Arabica,October,Central & South America
+Vietnam,1995,"3,546",Arabica/Robusta,October,Southeast Asia
+Yemen,1995,77,Arabica,October,Africa & Middle East
+Zambia,1995,21,Arabica,July,Africa & Middle East
+Zimbabwe,1995,157,Arabica,April,Africa & Middle East
+Angola,2000,22,Arabica/Robusta,April,Africa & Middle East
+Bolivia,2000,106,Arabica,April,Central & South America
+Brazil,2000,"18,016",Arabica/Robusta,April,Central & South America
+Burundi,2000,444,Arabica/Robusta,April,Africa & Middle East
+Cameroon,2000,"1,205",Arabica/Robusta,October,Africa & Middle East
+Central African Republic,2000,203,Robusta,October,Africa & Middle East
+Colombia,2000,"9,177",Arabica,October,Central & South America
+Congo,2000,0,Robusta,July,Africa & Middle East
+Costa Rica,2000,"1,965",Arabica,October,Central & South America
+Cote d'Ivoire,2000,"6,110",Robusta,October,Africa & Middle East
+Cuba,2000,113,Arabica,July,Central & South America
+Democratic Republic of Congo,2000,281,Arabica/Robusta,October,Africa & Middle East
+Dominican Republic,2000,155,Arabica/Robusta,July,Central & South America
+Ecuador,2000,697,Arabica/Robusta,April,Central & South America
+El Salvador,2000,"2,537",Arabica,October,Central & South America
+Equatorial Guinea,2000,0,Robusta,October,Africa & Middle East
+Ethiopia,2000,"1,982",Arabica,October,Africa & Middle East
+Gabon,2000,1,Robusta,October,Africa & Middle East
+Ghana,2000,91,Robusta,October,Africa & Middle East
+Guatemala,2000,"4,852",Arabica/Robusta,October,Central & South America
+Guinea,2000,292,Robusta,October,Africa & Middle East
+Guyana,2000,1,Robusta,October,Central & South America
+Haiti,2000,73,Arabica,July,Central & South America
+Honduras,2000,"2,879",Arabica,October,Central & South America
+India,2000,"4,229",Arabica/Robusta,October,Southeast Asia
+Indonesia,2000,"5,358",Arabica/Robusta,April,Southeast Asia
+Jamaica,2000,29,Arabica,October,Central & South America
+Kenya,2000,"1,328",Arabica,October,Africa & Middle East
+Laos,2000,255,Robusta,October,Southeast Asia
+Liberia,2000,4,Robusta,October,Africa & Middle East
+Madagascar,2000,216,Robusta,April,Africa & Middle East
+Malawi,2000,61,Arabica,April,Africa & Middle East
+Mexico,2000,"5,304",Arabica/Robusta,October,Central & South America
+Nepal,2000,0,Arabica,October,Southeast Asia
+Nicaragua,2000,"1,367",Arabica,October,Central & South America
+Nigeria,2000,7,Robusta,October,Africa & Middle East
+Panama,2000,72,Arabica,October,Central & South America
+Papua New Guinea,2000,"1,043",Arabica/Robusta,April,Southeast Asia
+Paraguay,2000,5,Arabica,April,Central & South America
+Peru,2000,"2,362",Arabica,April,Central & South America
+Philippines,2000,5,Arabica/Robusta,July,Southeast Asia
+Sierra Leone,2000,40,Robusta,October,Africa & Middle East
+Sri Lanka,2000,2,Arabica/Robusta,October,Southeast Asia
+Tanzania,2000,740,Arabica/Robusta,July,Africa & Middle East
+Thailand,2000,970,Arabica/Robusta,October,Southeast Asia
+Timor-Leste,2000,1,Arabica,April,Southeast Asia
+Togo,2000,283,Robusta,October,Africa & Middle East
+Trinidad & Tobago,2000,3,Robusta,October,Central & South America
+Uganda,2000,"2,513",Arabica/Robusta,October,Africa & Middle East
+Venezuela,2000,38,Arabica,October,Central & South America
+Vietnam,2000,"11,618",Arabica/Robusta,October,Southeast Asia
+Yemen,2000,58,Arabica,October,Africa & Middle East
+Zambia,2000,65,Arabica,July,Africa & Middle East
+Zimbabwe,2000,117,Arabica,April,Africa & Middle East
+Angola,2005,5,Arabica/Robusta,April,Africa & Middle East
+Bolivia,2005,84,Arabica,April,Central & South America
+Brazil,2005,"26,198",Arabica/Robusta,April,Central & South America
+Burundi,2005,371,Arabica/Robusta,April,Africa & Middle East
+Cameroon,2005,704,Arabica/Robusta,October,Africa & Middle East
+Central African Republic,2005,47,Robusta,October,Africa & Middle East
+Colombia,2005,"10,871",Arabica,October,Central & South America
+Congo,2005,0,Robusta,July,Africa & Middle East
+Costa Rica,2005,"1,480",Arabica,October,Central & South America
+Cote d'Ivoire,2005,"1,754",Robusta,October,Africa & Middle East
+Cuba,2005,24,Arabica,July,Central & South America
+Democratic Republic of Congo,2005,158,Arabica/Robusta,October,Africa & Middle East
+Dominican Republic,2005,42,Arabica/Robusta,July,Central & South America
+Ecuador,2005,993,Arabica/Robusta,April,Central & South America
+El Salvador,2005,"1,280",Arabica,October,Central & South America
+Equatorial Guinea,2005,0,Robusta,October,Africa & Middle East
+Ethiopia,2005,"2,435",Arabica,October,Africa & Middle East
+Gabon,2005,0,Robusta,October,Africa & Middle East
+Ghana,2005,18,Robusta,October,Africa & Middle East
+Guatemala,2005,"3,466",Arabica/Robusta,October,Central & South America
+Guinea,2005,279,Robusta,October,Africa & Middle East
+Guyana,2005,1,Robusta,October,Central & South America
+Haiti,2005,25,Arabica,July,Central & South America
+Honduras,2005,"2,392",Arabica,October,Central & South America
+India,2005,"2,829",Arabica/Robusta,October,Southeast Asia
+Indonesia,2005,"6,744",Arabica/Robusta,April,Southeast Asia
+Jamaica,2005,15,Arabica,October,Central & South America
+Kenya,2005,673,Arabica,October,Africa & Middle East
+Laos,2005,237,Robusta,October,Southeast Asia
+Liberia,2005,1,Robusta,October,Africa & Middle East
+Madagascar,2005,96,Robusta,April,Africa & Middle East
+Malawi,2005,21,Arabica,April,Africa & Middle East
+Mexico,2005,"1,985",Arabica/Robusta,October,Central & South America
+Nepal,2005,1,Arabica,October,Southeast Asia
+Nicaragua,2005,"1,003",Arabica,October,Central & South America
+Nigeria,2005,8,Robusta,October,Africa & Middle East
+Panama,2005,90,Arabica,October,Central & South America
+Papua New Guinea,2005,"1,200",Arabica/Robusta,April,Southeast Asia
+Paraguay,2005,24,Arabica,April,Central & South America
+Peru,2005,"2,369",Arabica,April,Central & South America
+Philippines,2005,34,Arabica/Robusta,July,Southeast Asia
+Sierra Leone,2005,20,Robusta,October,Africa & Middle East
+Sri Lanka,2005,3,Arabica/Robusta,October,Southeast Asia
+Tanzania,2005,712,Arabica/Robusta,July,Africa & Middle East
+Thailand,2005,375,Arabica/Robusta,October,Southeast Asia
+Timor-Leste,2005,18,Arabica,April,Southeast Asia
+Togo,2005,164,Robusta,October,Africa & Middle East
+Trinidad & Tobago,2005,1,Robusta,October,Central & South America
+Uganda,2005,"2,369",Arabica/Robusta,October,Africa & Middle East
+Venezuela,2005,22,Arabica,October,Central & South America
+Vietnam,2005,"13,432",Arabica/Robusta,October,Southeast Asia
+Yemen,2005,78,Arabica,October,Africa & Middle East
+Zambia,2005,106,Arabica,July,Africa & Middle East
+Zimbabwe,2005,71,Arabica,April,Africa & Middle East
+Angola,2010,4,Arabica/Robusta,April,Africa & Middle East
+Bolivia,2010,78,Arabica,April,Central & South America
+Brazil,2010,"33,167",Arabica/Robusta,April,Central & South America
+Burundi,2010,307,Arabica/Robusta,April,Africa & Middle East
+Cameroon,2010,794,Arabica/Robusta,October,Africa & Middle East
+Central African Republic,2010,95,Robusta,October,Africa & Middle East
+Colombia,2010,"7,822",Arabica,October,Central & South America
+Congo,2010,0,Robusta,July,Africa & Middle East
+Costa Rica,2010,"1,200",Arabica,October,Central & South America
+Cote d'Ivoire,2010,"1,912",Robusta,October,Africa & Middle East
+Cuba,2010,5,Arabica,July,Central & South America
+Democratic Republic of Congo,2010,162,Arabica/Robusta,October,Africa & Middle East
+Dominican Republic,2010,41,Arabica/Robusta,July,Central & South America
+Ecuador,2010,"1,202",Arabica/Robusta,April,Central & South America
+El Salvador,2010,"1,082",Arabica,October,Central & South America
+Equatorial Guinea,2010,0,Robusta,October,Africa & Middle East
+Ethiopia,2010,"3,324",Arabica,October,Africa & Middle East
+Gabon,2010,1,Robusta,October,Africa & Middle East
+Ghana,2010,7,Robusta,October,Africa & Middle East
+Guatemala,2010,"3,468",Arabica/Robusta,October,Central & South America
+Guinea,2010,406,Robusta,October,Africa & Middle East
+Guyana,2010,1,Robusta,October,Central & South America
+Haiti,2010,9,Arabica,July,Central & South America
+Honduras,2010,"3,349",Arabica,October,Central & South America
+India,2010,"4,647",Arabica/Robusta,October,Southeast Asia
+Indonesia,2010,"5,489",Arabica/Robusta,April,Southeast Asia
+Jamaica,2010,15,Arabica,October,Central & South America
+Kenya,2010,531,Arabica,October,Africa & Middle East
+Laos,2010,288,Robusta,October,Southeast Asia
+Liberia,2010,7,Robusta,October,Africa & Middle East
+Madagascar,2010,74,Robusta,April,Africa & Middle East
+Malawi,2010,8,Arabica,April,Africa & Middle East
+Mexico,2010,"2,498",Arabica/Robusta,October,Central & South America
+Nepal,2010,1,Arabica,October,Southeast Asia
+Nicaragua,2010,"1,712",Arabica,October,Central & South America
+Nigeria,2010,3,Robusta,October,Africa & Middle East
+Panama,2010,65,Arabica,October,Central & South America
+Papua New Guinea,2010,929,Arabica/Robusta,April,Southeast Asia
+Paraguay,2010,0,Arabica,April,Central & South America
+Peru,2010,"3,817",Arabica,April,Central & South America
+Philippines,2010,6,Arabica/Robusta,July,Southeast Asia
+Sierra Leone,2010,58,Robusta,October,Africa & Middle East
+Sri Lanka,2010,2,Arabica/Robusta,October,Southeast Asia
+Tanzania,2010,556,Arabica/Robusta,July,Africa & Middle East
+Thailand,2010,370,Arabica/Robusta,October,Southeast Asia
+Timor-Leste,2010,68,Arabica,April,Southeast Asia
+Togo,2010,198,Robusta,October,Africa & Middle East
+Trinidad & Tobago,2010,1,Robusta,October,Central & South America
+Uganda,2010,"2,657",Arabica/Robusta,October,Africa & Middle East
+Venezuela,2010,19,Arabica,October,Central & South America
+Vietnam,2010,"14,229",Arabica/Robusta,October,Southeast Asia
+Yemen,2010,44,Arabica,October,Africa & Middle East
+Zambia,2010,18,Arabica,July,Africa & Middle East
+Zimbabwe,2010,7,Arabica,April,Africa & Middle East
+Angola,2015,11,Arabica/Robusta,April,Africa & Middle East
+Bolivia,2015,30,Arabica,April,Central & South America
+Brazil,2015,"37,563",Arabica/Robusta,April,Central & South America
+Burundi,2015,230,Arabica/Robusta,April,Africa & Middle East
+Cameroon,2015,390,Arabica/Robusta,October,Africa & Middle East
+Central African Republic,2015,43,Robusta,October,Africa & Middle East
+Colombia,2015,"12,716",Arabica,October,Central & South America
+Congo,2015,0,Robusta,July,Africa & Middle East
+Costa Rica,2015,"1,128",Arabica,October,Central & South America
+Cote d'Ivoire,2015,"1,418",Robusta,October,Africa & Middle East
+Cuba,2015,13,Arabica,July,Central & South America
+Democratic Republic of Congo,2015,128,Arabica/Robusta,October,Africa & Middle East
+Dominican Republic,2015,19,Arabica/Robusta,July,Central & South America
+Ecuador,2015,869,Arabica/Robusta,April,Central & South America
+El Salvador,2015,576,Arabica,October,Central & South America
+Equatorial Guinea,2015,0,Robusta,October,Africa & Middle East
+Ethiopia,2015,"2,985",Arabica,October,Africa & Middle East
+Gabon,2015,0,Robusta,October,Africa & Middle East
+Ghana,2015,40,Robusta,October,Africa & Middle East
+Guatemala,2015,"2,961",Arabica/Robusta,October,Central & South America
+Guinea,2015,152,Robusta,October,Africa & Middle East
+Guyana,2015,2,Robusta,October,Central & South America
+Haiti,2015,3,Arabica,July,Central & South America
+Honduras,2015,"5,030",Arabica,October,Central & South America
+India,2015,"5,262",Arabica/Robusta,October,Southeast Asia
+Indonesia,2015,"8,379",Arabica/Robusta,April,Southeast Asia
+Jamaica,2015,12,Arabica,October,Central & South America
+Kenya,2015,712,Arabica,October,Africa & Middle East
+Laos,2015,403,Robusta,October,Southeast Asia
+Liberia,2015,4,Robusta,October,Africa & Middle East
+Madagascar,2015,59,Robusta,April,Africa & Middle East
+Malawi,2015,18,Arabica,April,Africa & Middle East
+Mexico,2015,"2,458",Arabica/Robusta,October,Central & South America
+Nepal,2015,2,Arabica,October,Southeast Asia
+Nicaragua,2015,"1,753",Arabica,October,Central & South America
+Nigeria,2015,3,Robusta,October,Africa & Middle East
+Panama,2015,50,Arabica,October,Central & South America
+Papua New Guinea,2015,711,Arabica/Robusta,April,Southeast Asia
+Paraguay,2015,0,Arabica,April,Central & South America
+Peru,2015,"2,790",Arabica,April,Central & South America
+Philippines,2015,15,Arabica/Robusta,July,Southeast Asia
+Sierra Leone,2015,54,Robusta,October,Africa & Middle East
+Sri Lanka,2015,0,Arabica/Robusta,October,Southeast Asia
+Tanzania,2015,709,Arabica/Robusta,July,Africa & Middle East
+Thailand,2015,578,Arabica/Robusta,October,Southeast Asia
+Timor-Leste,2015,68,Arabica,April,Southeast Asia
+Togo,2015,178,Robusta,October,Africa & Middle East
+Trinidad & Tobago,2015,2,Robusta,October,Central & South America
+Uganda,2015,"3,596",Arabica/Robusta,October,Africa & Middle East
+Venezuela,2015,1,Arabica,October,Central & South America
+Vietnam,2015,"21,944",Arabica/Robusta,October,Southeast Asia
+Yemen,2015,52,Arabica,October,Africa & Middle East
+Zambia,2015,3,Arabica,July,Africa & Middle East
+Zimbabwe,2015,11,Arabica,April,Africa & Middle East
