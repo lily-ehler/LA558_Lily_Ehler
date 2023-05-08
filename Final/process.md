@@ -5,12 +5,12 @@
 When begininng this project, I knew I would need multiple data sources to get information on all the different topics I wanted to cover. I started just by 
 compiling a folder of raw excel files and pdfs downloaded from my various sources. 
 
-![Plot1](data cleaning1.png)
+![Plot1](datacleaning1.png)
 
 I then went through and cleaned the data in excel, deleting any unnecessary columns. I also had to create a few excel files by hand when working with information that 
 was only able to be downloaded in pdf form. I then converted all the excel files to csvs.
 
-![Plot2](data cleanin 2.png)
+![Plot2](datacleanin2.png)
 
 Below is an updated list of sources:
 - [Eurostat](https://ec.europa.eu/eurostat/data/database)
@@ -22,14 +22,14 @@ Below is an updated list of sources:
 For a couple of the maps I wanted to create, I needed custom shapefiles so I made them using geojson.io. I referenced my studio's Historic Structures Report and 
 various maps made by my classmates, as well as Google Earth to determine the historic building locations, foreign embassies, and ports.
 
-![Plot3](geojson history.png)
+![Plot3](geojsonhistory.png)
 
 ### QGIS Shapefile Cleaning
 
 A couple of the other shapefiles I needed I was able to find online; however, they needed some major cleaning to be usable for my project. I opened the shapefiles
 in QGIS to delete unnecessary fields and columns, then export out a new shapefile.
 
-![Plot4](qgis shape editing.png)
+![Plot4](qgisshapeediting.png)
 
 ### Photoshop Add-ons
 
@@ -37,7 +37,7 @@ In addition to the Tableau graphics, I chose to make a few png graphics using Ad
 
 ![Plot5](photoshop.png)
 
-![Plot6](photo 2.png)
+![Plot6](photo2.png)
 
 ### Tableau Process
 
