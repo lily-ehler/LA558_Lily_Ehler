@@ -5,7 +5,7 @@
 When begininng this project, I knew I would need multiple data sources to get information on all the different topics I wanted to cover. I started just by 
 compiling a folder of raw excel files and pdfs downloaded from my various sources. 
 
-![Plot1](process_work/datacleaning1.png)
+![Plot1](Final/process_work/datacleaning1.PNG)
 
 I then went through and cleaned the data in excel, deleting any unnecessary columns. I also had to create a few excel files by hand when working with information that 
 was only able to be downloaded in pdf form. I then converted all the excel files to csvs.
