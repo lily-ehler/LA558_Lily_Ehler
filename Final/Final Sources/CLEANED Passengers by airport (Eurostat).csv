@@ -1,0 +1,201 @@
+Airport,Year,Amount
+Brussels Airport,2018,138518
+Brussels Airport,2019,103562
+Brussels Airport,2020,23578
+Brussels Airport,2021,36765
+Brussels Airport,2022,85860
+Sofia Airport,2018,53407
+Sofia Airport,2019,46925
+Sofia Airport,2020,20737
+Sofia Airport,2021,27252
+Sofia Airport,2022,61182
+Zürich Airport,2018,118380
+Zürich Airport,2019,115188
+Zürich Airport,2020,25808
+Zürich Airport,2021,60359
+Zürich Airport,2022,128033
+Frankfurt Airport,2018,337832
+Frankfurt Airport,2019,356077
+Frankfurt Airport,2020,99074
+Frankfurt Airport,2021,175320
+Frankfurt Airport,2022,241669
+Cologne Bonn Airport,2018,40466
+Cologne Bonn Airport,2019,49423
+Cologne Bonn Airport,2020,0
+Cologne Bonn Airport,2021,0
+Cologne Bonn Airport,2022,0
+Munich Airport,2018,223024
+Munich Airport,2019,228218
+Munich Airport,2020,57468
+Munich Airport,2021,78184
+Munich Airport,2022,213543
+Billund Airport,2018,0
+Billund Airport,2019,0
+Billund Airport,2020,0
+Billund Airport,2021,21236
+Billund Airport,2022,42566
+Copenhagen Kastrup Airport,2018,48228
+Copenhagen Kastrup Airport,2019,44763
+Copenhagen Kastrup Airport,2020,0
+Copenhagen Kastrup Airport,2021,0
+Copenhagen Kastrup Airport,2022,0
+Athens Eleftherios Venizelos International Airport,2018,58798
+Athens Eleftherios Venizelos International Airport,2019,63771
+Athens Eleftherios Venizelos International Airport,2020,0
+Athens Eleftherios Venizelos International Airport,2021,29393
+Athens Eleftherios Venizelos International Airport,2022,68821
+Josep Tarradellas Barcelona-El Prat Airport,2018,117152
+Josep Tarradellas Barcelona-El Prat Airport,2019,138953
+Josep Tarradellas Barcelona-El Prat Airport,2020,31165
+Josep Tarradellas Barcelona-El Prat Airport,2021,50818
+Josep Tarradellas Barcelona-El Prat Airport,2022,98440
+Adolfo Suárez Madrid–Barajas Airport,2018,100223
+Adolfo Suárez Madrid–Barajas Airport,2019,106846
+Adolfo Suárez Madrid–Barajas Airport,2020,25181
+Adolfo Suárez Madrid–Barajas Airport,2021,46816
+Adolfo Suárez Madrid–Barajas Airport,2022,116717
+Toulouse-Blagnac Airport,2018,0
+Toulouse-Blagnac Airport,2019,0
+Toulouse-Blagnac Airport,2020,0
+Toulouse-Blagnac Airport,2021,23527
+Toulouse-Blagnac Airport,2022,48884
+Lyon Saint-Exupéry Airport,2018,0
+Lyon Saint-Exupéry Airport,2019,47975
+Lyon Saint-Exupéry Airport,2020,0
+Lyon Saint-Exupéry Airport,2021,23934
+Lyon Saint-Exupéry Airport,2022,61811
+Marseille Provence Airport,2018,51610
+Marseille Provence Airport,2019,50418
+Marseille Provence Airport,2020,20665
+Marseille Provence Airport,2021,27487
+Marseille Provence Airport,2022,48297
+Charles de Gaulle International Airport,2018,94453
+Charles de Gaulle International Airport,2019,102490
+Charles de Gaulle International Airport,2020,32811
+Charles de Gaulle International Airport,2021,61955
+Charles de Gaulle International Airport,2022,121004
+Paris-Orly Airport,2018,118409
+Paris-Orly Airport,2019,107042
+Paris-Orly Airport,2020,24130
+Paris-Orly Airport,2021,49117
+Paris-Orly Airport,2022,166714
+Budapest Liszt Ferenc International Airport,2018,85809
+Budapest Liszt Ferenc International Airport,2019,92840
+Budapest Liszt Ferenc International Airport,2020,29803
+Budapest Liszt Ferenc International Airport,2021,46022
+Budapest Liszt Ferenc International Airport,2022,118968
+Dublin Airport,2018,80290
+Dublin Airport,2019,79907
+Dublin Airport,2020,21705
+Dublin Airport,2021,30220
+Dublin Airport,2022,53067
+Bari Karol Wojty?a Airport,2018,44544
+Bari Karol Wojty?a Airport,2019,46189
+Bari Karol Wojty?a Airport,2020,0
+Bari Karol Wojty?a Airport,2021,0
+Bari Karol Wojty?a Airport,2022,73849
+Catania-Fontanarossa Airport,2018,334821
+Catania-Fontanarossa Airport,2019,295820
+Catania-Fontanarossa Airport,2020,80699
+Catania-Fontanarossa Airport,2021,90445
+Catania-Fontanarossa Airport,2022,248554
+Milan Bergamo Airport,2018,118421
+Milan Bergamo Airport,2019,122754
+Milan Bergamo Airport,2020,33219
+Milan Bergamo Airport,2021,54702
+Milan Bergamo Airport,2022,85077
+Bologna Guglielmo Marconi Airport,2018,73631
+Bologna Guglielmo Marconi Airport,2019,74644
+Bologna Guglielmo Marconi Airport,2020,0
+Bologna Guglielmo Marconi Airport,2021,25248
+Bologna Guglielmo Marconi Airport,2022,69800
+Rome–Fiumicino Leonardo da Vinci International Airport,2018,366117
+Rome–Fiumicino Leonardo da Vinci International Airport,2019,391755
+Rome–Fiumicino Leonardo da Vinci International Airport,2020,93943
+Rome–Fiumicino Leonardo da Vinci International Airport,2021,102931
+Rome–Fiumicino Leonardo da Vinci International Airport,2022,173282
+Naples International Airport,2018,66564
+Naples International Airport,2019,69862
+Naples International Airport,2020,0
+Naples International Airport,2021,28246
+Naples International Airport,2022,80064
+Pisa International Airport,2018,55645
+Pisa International Airport,2019,46102
+Pisa International Airport,2020,0
+Pisa International Airport,2021,0
+Pisa International Airport,2022,0
+Riga International Airport,2018,47881
+Riga International Airport,2019,49471
+Riga International Airport,2020,0
+Riga International Airport,2021,0
+Riga International Airport,2022,0
+Amsterdam Airport Schiphol,2018,112898
+Amsterdam Airport Schiphol,2019,93961
+Amsterdam Airport Schiphol,2020,26265
+Amsterdam Airport Schiphol,2021,49907
+Amsterdam Airport Schiphol,2022,100475
+Warsaw Chopin Airport,2018,47463
+Warsaw Chopin Airport,2019,59990
+Warsaw Chopin Airport,2020,23290
+Warsaw Chopin Airport,2021,29782
+Warsaw Chopin Airport,2022,61400
+Humberto Delgado Airport (Lisbon Portela Airport),2018,0
+Humberto Delgado Airport (Lisbon Portela Airport),2019,47444
+Humberto Delgado Airport (Lisbon Portela Airport),2020,0
+Humberto Delgado Airport (Lisbon Portela Airport),2021,24556
+Humberto Delgado Airport (Lisbon Portela Airport),2022,42608
+Henri Coand? International Airport,2018,49281
+Henri Coand? International Airport,2019,42480
+Henri Coand? International Airport,2020,0
+Henri Coand? International Airport,2021,0
+Henri Coand? International Airport,2022,66686
+Belgrade Nikola Tesla Airport,2018,49954
+Belgrade Nikola Tesla Airport,2019,58719
+Belgrade Nikola Tesla Airport,2020,0
+Belgrade Nikola Tesla Airport,2021,0
+Belgrade Nikola Tesla Airport,2022,41743
+Stockholm-Arlanda Airport,2018,43541
+Stockholm-Arlanda Airport,2019,44342
+Stockholm-Arlanda Airport,2020,0
+Stockholm-Arlanda Airport,2021,0
+Stockholm-Arlanda Airport,2022,0
+?stanbul Airport,2018,0
+?stanbul Airport,2019,115707
+?stanbul Airport,2020,51283
+?stanbul Airport,2021,79837
+?stanbul Airport,2022,149482
+Birmingham International Airport,2018,91772
+Birmingham International Airport,2019,89681
+Birmingham International Airport,2020,0
+Birmingham International Airport,2021,29063
+Birmingham International Airport,2022,64408
+Manchester Airport,2018,233401
+Manchester Airport,2019,237675
+Manchester Airport,2020,46939
+Manchester Airport,2021,83687
+Manchester Airport,2022,199655
+London Luton Airport,2018,115843
+London Luton Airport,2019,114711
+London Luton Airport,2020,25453
+London Luton Airport,2021,48317
+London Luton Airport,2022,67244
+London Gatwick Airport,2018,390508
+London Gatwick Airport,2019,395354
+London Gatwick Airport,2020,6717
+London Gatwick Airport,2021,64438
+London Gatwick Airport,2022,292459
+London Heathrow Airport,2018,208431
+London Heathrow Airport,2019,199381
+London Heathrow Airport,2020,60836
+London Heathrow Airport,2021,121840
+London Heathrow Airport,2022,214240
+Edinburgh Airport,2018,58027
+Edinburgh Airport,2019,58354
+Edinburgh Airport,2020,0
+Edinburgh Airport,2021,0
+Edinburgh Airport,2022,0
+London Stansted Airport,2018,109963
+London Stansted Airport,2019,114747
+London Stansted Airport,2020,25116
+London Stansted Airport,2021,50159
+London Stansted Airport,2022,105240

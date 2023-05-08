@@ -1,0 +1,169 @@
+Port,Quarter,Ship Type,Amount
+Cirkewwa,2021 Q1,Liquid bulk tanker,0
+Marsaxlokk,2021 Q1,Liquid bulk tanker,5
+Mgarr,2021 Q1,Liquid bulk tanker,0
+Valletta,2021 Q1,Liquid bulk tanker,0
+Cirkewwa,2021 Q2,Liquid bulk tanker,0
+Marsaxlokk,2021 Q2,Liquid bulk tanker,5
+Mgarr,2021 Q2,Liquid bulk tanker,0
+Valletta,2021 Q2,Liquid bulk tanker,1
+Cirkewwa,2021 Q3,Liquid bulk tanker,0
+Marsaxlokk,2021 Q3,Liquid bulk tanker,2
+Mgarr,2021 Q3,Liquid bulk tanker,0
+Valletta,2021 Q3,Liquid bulk tanker,1
+Cirkewwa,2021 Q4,Liquid bulk tanker,0
+Marsaxlokk,2021 Q4,Liquid bulk tanker,2
+Mgarr,2021 Q4,Liquid bulk tanker,0
+Valletta,2021 Q4,Liquid bulk tanker,1
+Cirkewwa,2022 Q1,Liquid bulk tanker,0
+Marsaxlokk,2022 Q1,Liquid bulk tanker,11
+Mgarr,2022 Q1,Liquid bulk tanker,0
+Valletta,2022 Q1,Liquid bulk tanker,0
+Cirkewwa,2022 Q2,Liquid bulk tanker,0
+Marsaxlokk,2022 Q2,Liquid bulk tanker,28
+Mgarr,2022 Q2,Liquid bulk tanker,0
+Valletta,2022 Q2,Liquid bulk tanker,3
+Cirkewwa,2022 Q3,Liquid bulk tanker,0
+Marsaxlokk,2022 Q3,Liquid bulk tanker,20
+Mgarr,2022 Q3,Liquid bulk tanker,0
+Valletta,2022 Q3,Liquid bulk tanker,1
+Cirkewwa,2021 Q1,Dry bulk carrier,0
+Marsaxlokk,2021 Q1,Dry bulk carrier,74
+Mgarr,2021 Q1,Dry bulk carrier,0
+Valletta,2021 Q1,Dry bulk carrier,23
+Cirkewwa,2021 Q2,Dry bulk carrier,0
+Marsaxlokk,2021 Q2,Dry bulk carrier,97
+Mgarr,2021 Q2,Dry bulk carrier,0
+Valletta,2021 Q2,Dry bulk carrier,37
+Cirkewwa,2021 Q3,Dry bulk carrier,0
+Marsaxlokk,2021 Q3,Dry bulk carrier,40
+Mgarr,2021 Q3,Dry bulk carrier,0
+Valletta,2021 Q3,Dry bulk carrier,20
+Cirkewwa,2021 Q4,Dry bulk carrier,0
+Marsaxlokk,2021 Q4,Dry bulk carrier,16
+Mgarr,2021 Q4,Dry bulk carrier,0
+Valletta,2021 Q4,Dry bulk carrier,96
+Cirkewwa,2022 Q1,Dry bulk carrier,0
+Marsaxlokk,2022 Q1,Dry bulk carrier,22
+Mgarr,2022 Q1,Dry bulk carrier,0
+Valletta,2022 Q1,Dry bulk carrier,105
+Cirkewwa,2022 Q2,Dry bulk carrier,0
+Marsaxlokk,2022 Q2,Dry bulk carrier,13
+Mgarr,2022 Q2,Dry bulk carrier,0
+Valletta,2022 Q2,Dry bulk carrier,104
+Cirkewwa,2022 Q3,Dry bulk carrier,0
+Marsaxlokk,2022 Q3,Dry bulk carrier,13
+Mgarr,2022 Q3,Dry bulk carrier,0
+Valletta,2022 Q3,Dry bulk carrier,112
+Cirkewwa,2021 Q1,Container ship,0
+Marsaxlokk,2021 Q1,Container ship,547
+Mgarr,2021 Q1,Container ship,0
+Valletta,2021 Q1,Container ship,73
+Cirkewwa,2021 Q2,Container ship,0
+Marsaxlokk,2021 Q2,Container ship,464
+Mgarr,2021 Q2,Container ship,0
+Valletta,2021 Q2,Container ship,75
+Cirkewwa,2021 Q3,Container ship,0
+Marsaxlokk,2021 Q3,Container ship,441
+Mgarr,2021 Q3,Container ship,0
+Valletta,2021 Q3,Container ship,90
+Cirkewwa,2021 Q4,Container ship,0
+Marsaxlokk,2021 Q4,Container ship,396
+Mgarr,2021 Q4,Container ship,0
+Valletta,2021 Q4,Container ship,81
+Cirkewwa,2022 Q1,Container ship,0
+Marsaxlokk,2022 Q1,Container ship,382
+Mgarr,2022 Q1,Container ship,0
+Valletta,2022 Q1,Container ship,86
+Cirkewwa,2022 Q2,Container ship,0
+Marsaxlokk,2022 Q2,Container ship,382
+Mgarr,2022 Q2,Container ship,0
+Valletta,2022 Q2,Container ship,71
+Cirkewwa,2022 Q3,Container ship,0
+Marsaxlokk,2022 Q3,Container ship,393
+Mgarr,2022 Q3,Container ship,0
+Valletta,2022 Q3,Container ship,38
+Cirkewwa,2021 Q1,Specialized carrier,0
+Marsaxlokk,2021 Q1,Specialized carrier,0
+Mgarr,2021 Q1,Specialized carrier,0
+Valletta,2021 Q1,Specialized carrier,5
+Cirkewwa,2021 Q2,Specialized carrier,0
+Marsaxlokk,2021 Q2,Specialized carrier,0
+Mgarr,2021 Q2,Specialized carrier,0
+Valletta,2021 Q2,Specialized carrier,7
+Cirkewwa,2021 Q3,Specialized carrier,0
+Marsaxlokk,2021 Q3,Specialized carrier,0
+Mgarr,2021 Q3,Specialized carrier,0
+Valletta,2021 Q3,Specialized carrier,6
+Cirkewwa,2021 Q4,Specialized carrier,0
+Marsaxlokk,2021 Q4,Specialized carrier,0
+Mgarr,2021 Q4,Specialized carrier,0
+Valletta,2021 Q4,Specialized carrier,5
+Cirkewwa,2022 Q1,Specialized carrier,0
+Marsaxlokk,2022 Q1,Specialized carrier,0
+Mgarr,2022 Q1,Specialized carrier,0
+Valletta,2022 Q1,Specialized carrier,6
+Cirkewwa,2022 Q2,Specialized carrier,0
+Marsaxlokk,2022 Q2,Specialized carrier,0
+Mgarr,2022 Q2,Specialized carrier,0
+Valletta,2022 Q2,Specialized carrier,7
+Cirkewwa,2022 Q3,Specialized carrier,0
+Marsaxlokk,2022 Q3,Specialized carrier,0
+Mgarr,2022 Q3,Specialized carrier,0
+Valletta,2022 Q3,Specialized carrier,3
+Cirkewwa,2021 Q1,General cargo,3070
+Marsaxlokk,2021 Q1,General cargo,0
+Mgarr,2021 Q1,General cargo,3069
+Valletta,2021 Q1,General cargo,5
+Cirkewwa,2021 Q2,General cargo,3627
+Marsaxlokk,2021 Q2,General cargo,0
+Mgarr,2021 Q2,General cargo,3628
+Valletta,2021 Q2,General cargo,0
+Cirkewwa,2021 Q3,General cargo,4276
+Marsaxlokk,2021 Q3,General cargo,0
+Mgarr,2021 Q3,General cargo,4276
+Valletta,2021 Q3,General cargo,0
+Cirkewwa,2021 Q4,General cargo,4241
+Marsaxlokk,2021 Q4,General cargo,0
+Mgarr,2021 Q4,General cargo,4238
+Valletta,2021 Q4,General cargo,0
+Cirkewwa,2022 Q1,General cargo,3942
+Marsaxlokk,2022 Q1,General cargo,0
+Mgarr,2022 Q1,General cargo,3941
+Valletta,2022 Q1,General cargo,0
+Cirkewwa,2022 Q2,General cargo,4337
+Marsaxlokk,2022 Q2,General cargo,0
+Mgarr,2022 Q2,General cargo,4338
+Valletta,2022 Q2,General cargo,0
+Cirkewwa,2022 Q3,General cargo,4569
+Marsaxlokk,2022 Q3,General cargo,0
+Mgarr,2022 Q3,General cargo,4569
+Valletta,2022 Q3,General cargo,0
+Cirkewwa,2021 Q1,Passenger ship,0
+Marsaxlokk,2021 Q1,Passenger ship,0
+Mgarr,2021 Q1,Passenger ship,0
+Valletta,2021 Q1,Passenger ship,0
+Cirkewwa,2021 Q2,Passenger ship,0
+Marsaxlokk,2021 Q2,Passenger ship,0
+Mgarr,2021 Q2,Passenger ship,530
+Valletta,2021 Q2,Passenger ship,556
+Cirkewwa,2021 Q3,Passenger ship,0
+Marsaxlokk,2021 Q3,Passenger ship,0
+Mgarr,2021 Q3,Passenger ship,1299
+Valletta,2021 Q3,Passenger ship,2188
+Cirkewwa,2021 Q4,Passenger ship,0
+Marsaxlokk,2021 Q4,Passenger ship,0
+Mgarr,2021 Q4,Passenger ship,0
+Valletta,2021 Q4,Passenger ship,1467
+Cirkewwa,2022 Q1,Passenger ship,0
+Marsaxlokk,2022 Q1,Passenger ship,0
+Mgarr,2022 Q1,Passenger ship,736
+Valletta,2022 Q1,Passenger ship,783
+Cirkewwa,2022 Q2,Passenger ship,0
+Marsaxlokk,2022 Q2,Passenger ship,0
+Mgarr,2022 Q2,Passenger ship,858
+Valletta,2022 Q2,Passenger ship,805
+Cirkewwa,2022 Q3,Passenger ship,0
+Marsaxlokk,2022 Q3,Passenger ship,0
+Mgarr,2022 Q3,Passenger ship,1092
+Valletta,2022 Q3,Passenger ship,1203

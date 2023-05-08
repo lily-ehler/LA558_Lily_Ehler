@@ -1,0 +1,743 @@
+Country,Quarter,Amount
+Belgium,2021 Q1,1655
+Belgium,2021 Q2,659
+Belgium,2021 Q3,1008
+Belgium,2021 Q4,905
+Belgium,2022 Q1,507
+Belgium,2022 Q2,683
+Belgium,2022 Q3,522
+Bugaria,2021 Q1,6
+Bugaria,2021 Q2,11
+Bugaria,2021 Q3,135
+Bugaria,2021 Q4,58
+Bugaria,2022 Q1,57
+Bugaria,2022 Q2,33
+Bugaria,2022 Q3,28
+Denmark,2021 Q1,9
+Denmark,2021 Q2,23
+Denmark,2021 Q3,5
+Denmark,2021 Q4,2
+Denmark,2022 Q1,5
+Denmark,2022 Q2,5
+Denmark,2022 Q3,0
+Germany,2021 Q1,882
+Germany,2021 Q2,1152
+Germany,2021 Q3,737
+Germany,2021 Q4,405
+Germany,2022 Q1,414
+Germany,2022 Q2,396
+Germany,2022 Q3,549
+Estonia,2021 Q1,8
+Estonia,2021 Q2,8
+Estonia,2021 Q3,6
+Estonia,2021 Q4,19
+Estonia,2022 Q1,22
+Estonia,2022 Q2,2
+Estonia,2022 Q3,0
+Ireland,2021 Q1,48
+Ireland,2021 Q2,40
+Ireland,2021 Q3,65
+Ireland,2021 Q4,79
+Ireland,2022 Q1,53
+Ireland,2022 Q2,71
+Ireland,2022 Q3,25
+Greece,2021 Q1,1283
+Greece,2021 Q2,1542
+Greece,2021 Q3,1316
+Greece,2021 Q4,1210
+Greece,2022 Q1,916
+Greece,2022 Q2,923
+Greece,2022 Q3,688
+Spain,2021 Q1,3908
+Spain,2021 Q2,3051
+Spain,2021 Q3,3433
+Spain,2021 Q4,3133
+Spain,2022 Q1,2629
+Spain,2022 Q2,2313
+Spain,2022 Q3,2148
+France,2021 Q1,1780
+France,2021 Q2,363
+France,2021 Q3,391
+France,2021 Q4,265
+France,2022 Q1,229
+France,2022 Q2,151
+France,2022 Q3,212
+Croatia,2021 Q1,280
+Croatia,2021 Q2,116
+Croatia,2021 Q3,83
+Croatia,2021 Q4,55
+Croatia,2022 Q1,46
+Croatia,2022 Q2,38
+Croatia,2022 Q3,19
+Italy,2021 Q1,3847
+Italy,2021 Q2,2294
+Italy,2021 Q3,2722
+Italy,2021 Q4,1977
+Italy,2022 Q1,2740
+Italy,2022 Q2,2316
+Italy,2022 Q3,1704
+Cyprus,2021 Q1,35
+Cyprus,2021 Q2,7
+Cyprus,2021 Q3,72
+Cyprus,2021 Q4,54
+Cyprus,2022 Q1,23
+Cyprus,2022 Q2,8
+Cyprus,2022 Q3,19
+Latvia,2021 Q1,4
+Latvia,2021 Q2,11
+Latvia,2021 Q3,11
+Latvia,2021 Q4,4
+Latvia,2022 Q1,2
+Latvia,2022 Q2,2
+Latvia,2022 Q3,12
+Lithuania,2021 Q1,5
+Lithuania,2021 Q2,7
+Lithuania,2021 Q3,26
+Lithuania,2021 Q4,30
+Lithuania,2022 Q1,7
+Lithuania,2022 Q2,1
+Lithuania,2022 Q3,3
+Netherlands,2021 Q1,1874
+Netherlands,2021 Q2,978
+Netherlands,2021 Q3,4871
+Netherlands,2021 Q4,966
+Netherlands,2022 Q1,576
+Netherlands,2022 Q2,760
+Netherlands,2022 Q3,2545
+Poland,2021 Q1,136
+Poland,2021 Q2,156
+Poland,2021 Q3,106
+Poland,2021 Q4,56
+Poland,2022 Q1,88
+Poland,2022 Q2,84
+Poland,2022 Q3,55
+Portugal,2021 Q1,825
+Portugal,2021 Q2,477
+Portugal,2021 Q3,148
+Portugal,2021 Q4,159
+Portugal,2022 Q1,121
+Portugal,2022 Q2,148
+Portugal,2022 Q3,112
+Romania,2021 Q1,166
+Romania,2021 Q2,70
+Romania,2021 Q3,96
+Romania,2021 Q4,68
+Romania,2022 Q1,110
+Romania,2022 Q2,28
+Romania,2022 Q3,16
+Slovenia,2021 Q1,250
+Slovenia,2021 Q2,267
+Slovenia,2021 Q3,356
+Slovenia,2021 Q4,226
+Slovenia,2022 Q1,173
+Slovenia,2022 Q2,276
+Slovenia,2022 Q3,431
+Finland,2021 Q1,11
+Finland,2021 Q2,16
+Finland,2021 Q3,13
+Finland,2021 Q4,18
+Finland,2022 Q1,2
+Finland,2022 Q2,4
+Finland,2022 Q3,4
+Sweden,2021 Q1,11
+Sweden,2021 Q2,807
+Sweden,2021 Q3,406
+Sweden,2021 Q4,25
+Sweden,2022 Q1,15
+Sweden,2022 Q2,18
+Sweden,2022 Q3,8
+Norway,2021 Q1,2
+Norway,2021 Q2,14
+Norway,2021 Q3,6
+Norway,2021 Q4,11
+Norway,2022 Q1,5
+Norway,2022 Q2,6
+Norway,2022 Q3,4
+United Kingdom,2021 Q1,1122
+United Kingdom,2021 Q2,836
+United Kingdom,2021 Q3,967
+United Kingdom,2021 Q4,709
+United Kingdom,2022 Q1,474
+United Kingdom,2022 Q2,971
+United Kingdom,2022 Q3,923
+Albania,2021 Q1,45
+Albania,2021 Q2,43
+Albania,2021 Q3,40
+Albania,2021 Q4,41
+Albania,2022 Q1,48
+Albania,2022 Q2,54
+Albania,2022 Q3,37
+Turkey,2021 Q1,2064
+Turkey,2021 Q2,2836
+Turkey,2021 Q3,2327
+Turkey,2021 Q4,1917
+Turkey,2022 Q1,2441
+Turkey,2022 Q2,1509
+Turkey,2022 Q3,1930
+Ukraine,2021 Q1,107
+Ukraine,2021 Q2,146
+Ukraine,2021 Q3,176
+Ukraine,2021 Q4,104
+Ukraine,2022 Q1,172
+Ukraine,2022 Q2,0
+Ukraine,2022 Q3,16
+Russia,2021 Q1,4
+Russia,2021 Q2,3
+Russia,2021 Q3,12
+Russia,2021 Q4,19
+Russia,2022 Q1,10
+Russia,2022 Q2,4
+Russia,2022 Q3,0
+Algeria,2021 Q1,174
+Algeria,2021 Q2,28
+Algeria,2021 Q3,73
+Algeria,2021 Q4,102
+Algeria,2022 Q1,102
+Algeria,2022 Q2,128
+Algeria,2022 Q3,74
+Angola,2021 Q1,17
+Angola,2021 Q2,16
+Angola,2021 Q3,11
+Angola,2021 Q4,12
+Angola,2022 Q1,28
+Angola,2022 Q2,13
+Angola,2022 Q3,14
+Benin,2021 Q1,16
+Benin,2021 Q2,8
+Benin,2021 Q3,6
+Benin,2021 Q4,9
+Benin,2022 Q1,4
+Benin,2022 Q2,0
+Benin,2022 Q3,0
+Cameroon,2021 Q1,11
+Cameroon,2021 Q2,10
+Cameroon,2021 Q3,41
+Cameroon,2021 Q4,42
+Cameroon,2022 Q1,38
+Cameroon,2022 Q2,21
+Cameroon,2022 Q3,34
+Cape Verde,2021 Q1,4
+Cape Verde,2021 Q2,2
+Cape Verde,2021 Q3,8
+Cape Verde,2021 Q4,6
+Cape Verde,2022 Q1,8
+Cape Verde,2022 Q2,16
+Cape Verde,2022 Q3,6
+Congo,2021 Q1,10
+Congo,2021 Q2,6
+Congo,2021 Q3,6
+Congo,2021 Q4,4
+Congo,2022 Q1,1
+Congo,2022 Q2,18
+Congo,2022 Q3,3
+Cote d'Ivoire,2021 Q1,6
+Cote d'Ivoire,2021 Q2,23
+Cote d'Ivoire,2021 Q3,1
+Cote d'Ivoire,2021 Q4,50
+Cote d'Ivoire,2022 Q1,8
+Cote d'Ivoire,2022 Q2,2
+Cote d'Ivoire,2022 Q3,4
+Djibouti,2021 Q1,9
+Djibouti,2021 Q2,24
+Djibouti,2021 Q3,36
+Djibouti,2021 Q4,73
+Djibouti,2022 Q1,28
+Djibouti,2022 Q2,6
+Djibouti,2022 Q3,0
+Egypt,2021 Q1,692
+Egypt,2021 Q2,246
+Egypt,2021 Q3,380
+Egypt,2021 Q4,195
+Egypt,2022 Q1,253
+Egypt,2022 Q2,246
+Egypt,2022 Q3,237
+Gabon,2021 Q1,1
+Gabon,2021 Q2,6
+Gabon,2021 Q3,1
+Gabon,2021 Q4,0
+Gabon,2022 Q1,0
+Gabon,2022 Q2,0
+Gabon,2022 Q3,0
+Gambia,2021 Q1,10
+Gambia,2021 Q2,0
+Gambia,2021 Q3,2
+Gambia,2021 Q4,6
+Gambia,2022 Q1,8
+Gambia,2022 Q2,4
+Gambia,2022 Q3,6
+Ghana,2021 Q1,37
+Ghana,2021 Q2,20
+Ghana,2021 Q3,4
+Ghana,2021 Q4,31
+Ghana,2022 Q1,37
+Ghana,2022 Q2,25
+Ghana,2022 Q3,19
+Guinea,2021 Q1,6
+Guinea,2021 Q2,4
+Guinea,2021 Q3,11
+Guinea,2021 Q4,0
+Guinea,2022 Q1,0
+Guinea,2022 Q2,0
+Guinea,2022 Q3,0
+Kenya,2021 Q1,15
+Kenya,2021 Q2,20
+Kenya,2021 Q3,38
+Kenya,2021 Q4,62
+Kenya,2022 Q1,22
+Kenya,2022 Q2,49
+Kenya,2022 Q3,56
+Liberia,2021 Q1,6
+Liberia,2021 Q2,8
+Liberia,2021 Q3,6
+Liberia,2021 Q4,6
+Liberia,2022 Q1,12
+Liberia,2022 Q2,10
+Liberia,2022 Q3,5
+Libya,2021 Q1,2139
+Libya,2021 Q2,2018
+Libya,2021 Q3,2353
+Libya,2021 Q4,2238
+Libya,2022 Q1,1890
+Libya,2022 Q2,2486
+Libya,2022 Q3,1179
+Madagascar,2021 Q1,1
+Madagascar,2021 Q2,2
+Madagascar,2021 Q3,2
+Madagascar,2021 Q4,3
+Madagascar,2022 Q1,23
+Madagascar,2022 Q2,0
+Madagascar,2022 Q3,0
+Mauritania,2021 Q1,0
+Mauritania,2021 Q2,2
+Mauritania,2021 Q3,3
+Mauritania,2021 Q4,0
+Mauritania,2022 Q1,1
+Mauritania,2022 Q2,2
+Mauritania,2022 Q3,0
+Mauritius,2021 Q1,7
+Mauritius,2021 Q2,9
+Mauritius,2021 Q3,20
+Mauritius,2021 Q4,15
+Mauritius,2022 Q1,24
+Mauritius,2022 Q2,9
+Mauritius,2022 Q3,15
+Morocco,2021 Q1,97
+Morocco,2021 Q2,121
+Morocco,2021 Q3,67
+Morocco,2021 Q4,226
+Morocco,2022 Q1,51
+Morocco,2022 Q2,92
+Morocco,2022 Q3,559
+Mozambique,2021 Q1,4
+Mozambique,2021 Q2,0
+Mozambique,2021 Q3,4
+Mozambique,2021 Q4,6
+Mozambique,2022 Q1,10
+Mozambique,2022 Q2,0
+Mozambique,2022 Q3,6
+Nigeria,2021 Q1,34
+Nigeria,2021 Q2,48
+Nigeria,2021 Q3,54
+Nigeria,2021 Q4,96
+Nigeria,2022 Q1,41
+Nigeria,2022 Q2,31
+Nigeria,2022 Q3,5
+Senegal,2021 Q1,29
+Senegal,2021 Q2,15
+Senegal,2021 Q3,11
+Senegal,2021 Q4,29
+Senegal,2022 Q1,36
+Senegal,2022 Q2,31
+Senegal,2022 Q3,4
+Seychelles,2021 Q1,0
+Seychelles,2021 Q2,1
+Seychelles,2021 Q3,1
+Seychelles,2021 Q4,4
+Seychelles,2022 Q1,0
+Seychelles,2022 Q2,2
+Seychelles,2022 Q3,5
+Sierra Leone,2021 Q1,1
+Sierra Leone,2021 Q2,0
+Sierra Leone,2021 Q3,4
+Sierra Leone,2021 Q4,2
+Sierra Leone,2022 Q1,5
+Sierra Leone,2022 Q2,1
+Sierra Leone,2022 Q3,0
+Somalia,2021 Q1,6
+Somalia,2021 Q2,15
+Somalia,2021 Q3,9
+Somalia,2021 Q4,55
+Somalia,2022 Q1,3
+Somalia,2022 Q2,15
+Somalia,2022 Q3,13
+South Africa,2021 Q1,9
+South Africa,2021 Q2,10
+South Africa,2021 Q3,33
+South Africa,2021 Q4,56
+South Africa,2022 Q1,19
+South Africa,2022 Q2,35
+South Africa,2022 Q3,70
+Sudan,2021 Q1,5
+Sudan,2021 Q2,2
+Sudan,2021 Q3,17
+Sudan,2021 Q4,0
+Sudan,2022 Q1,1
+Sudan,2022 Q2,0
+Sudan,2022 Q3,0
+Tanzania,2021 Q1,13
+Tanzania,2021 Q2,3
+Tanzania,2021 Q3,2
+Tanzania,2021 Q4,5
+Tanzania,2022 Q1,3
+Tanzania,2022 Q2,7
+Tanzania,2022 Q3,0
+Togo,2021 Q1,20
+Togo,2021 Q2,14
+Togo,2021 Q3,8
+Togo,2021 Q4,36
+Togo,2022 Q1,14
+Togo,2022 Q2,3
+Togo,2022 Q3,3
+Tunisia,2021 Q1,117
+Tunisia,2021 Q2,56
+Tunisia,2021 Q3,56
+Tunisia,2021 Q4,155
+Tunisia,2022 Q1,115
+Tunisia,2022 Q2,93
+Tunisia,2022 Q3,139
+Argentina,2021 Q1,37
+Argentina,2021 Q2,12
+Argentina,2021 Q3,3
+Argentina,2021 Q4,16
+Argentina,2022 Q1,2
+Argentina,2022 Q2,18
+Argentina,2022 Q3,1
+Belize,2021 Q1,2
+Belize,2021 Q2,1
+Belize,2021 Q3,1
+Belize,2021 Q4,1
+Belize,2022 Q1,1
+Belize,2022 Q2,1
+Belize,2022 Q3,0
+Brazil,2021 Q1,87
+Brazil,2021 Q2,67
+Brazil,2021 Q3,103
+Brazil,2021 Q4,60
+Brazil,2022 Q1,48
+Brazil,2022 Q2,18
+Brazil,2022 Q3,148
+Canada,2021 Q1,114
+Canada,2021 Q2,89
+Canada,2021 Q3,154
+Canada,2021 Q4,76
+Canada,2022 Q1,64
+Canada,2022 Q2,51
+Canada,2022 Q3,32
+Chile,2021 Q1,16
+Chile,2021 Q2,33
+Chile,2021 Q3,20
+Chile,2021 Q4,21
+Chile,2022 Q1,38
+Chile,2022 Q2,9
+Chile,2022 Q3,7
+Colombia,2021 Q1,170
+Colombia,2021 Q2,158
+Colombia,2021 Q3,119
+Colombia,2021 Q4,172
+Colombia,2022 Q1,133
+Colombia,2022 Q2,122
+Colombia,2022 Q3,75
+Costa Rica,2021 Q1,6
+Costa Rica,2021 Q2,28
+Costa Rica,2021 Q3,19
+Costa Rica,2021 Q4,18
+Costa Rica,2022 Q1,30
+Costa Rica,2022 Q2,56
+Costa Rica,2022 Q3,16
+Cuba,2021 Q1,2
+Cuba,2021 Q2,48
+Cuba,2021 Q3,42
+Cuba,2021 Q4,40
+Cuba,2022 Q1,38
+Cuba,2022 Q2,18
+Cuba,2022 Q3,20
+Dominican Republic,2021 Q1,7
+Dominican Republic,2021 Q2,7
+Dominican Republic,2021 Q3,6
+Dominican Republic,2021 Q4,149
+Dominican Republic,2022 Q1,36
+Dominican Republic,2022 Q2,66
+Dominican Republic,2022 Q3,0
+Ecuador,2021 Q1,38
+Ecuador,2021 Q2,10
+Ecuador,2021 Q3,22
+Ecuador,2021 Q4,16
+Ecuador,2022 Q1,6
+Ecuador,2022 Q2,5
+Ecuador,2022 Q3,93
+Jamaica,2021 Q1,7
+Jamaica,2021 Q2,0
+Jamaica,2021 Q3,15
+Jamaica,2021 Q4,4
+Jamaica,2022 Q1,9
+Jamaica,2022 Q2,4
+Jamaica,2022 Q3,0
+Mexico,2021 Q1,25
+Mexico,2021 Q2,91
+Mexico,2021 Q3,60
+Mexico,2021 Q4,66
+Mexico,2022 Q1,30
+Mexico,2022 Q2,50
+Mexico,2022 Q3,48
+Panama,2021 Q1,4
+Panama,2021 Q2,4
+Panama,2021 Q3,308
+Panama,2021 Q4,2
+Panama,2022 Q1,12
+Panama,2022 Q2,4
+Panama,2022 Q3,0
+Peru,2021 Q1,10
+Peru,2021 Q2,4
+Peru,2021 Q3,1
+Peru,2021 Q4,2
+Peru,2022 Q1,1
+Peru,2022 Q2,0
+Peru,2022 Q3,1
+Trinidad and Tobago,2021 Q1,9
+Trinidad and Tobago,2021 Q2,0
+Trinidad and Tobago,2021 Q3,4
+Trinidad and Tobago,2021 Q4,13
+Trinidad and Tobago,2022 Q1,8
+Trinidad and Tobago,2022 Q2,2
+Trinidad and Tobago,2022 Q3,4
+United States,2021 Q1,117
+United States,2021 Q2,224
+United States,2021 Q3,197
+United States,2021 Q4,202
+United States,2022 Q1,164
+United States,2022 Q2,312
+United States,2022 Q3,201
+Uruguay,2021 Q1,0
+Uruguay,2021 Q2,2
+Uruguay,2021 Q3,3
+Uruguay,2021 Q4,4
+Uruguay,2022 Q1,0
+Uruguay,2022 Q2,6
+Uruguay,2022 Q3,2
+Venezuela,2021 Q1,20
+Venezuela,2021 Q2,0
+Venezuela,2021 Q3,0
+Venezuela,2021 Q4,2
+Venezuela,2022 Q1,4
+Venezuela,2022 Q2,8
+Venezuela,2022 Q3,0
+Bahrain,2021 Q1,18
+Bahrain,2021 Q2,12
+Bahrain,2021 Q3,18
+Bahrain,2021 Q4,36
+Bahrain,2022 Q1,23
+Bahrain,2022 Q2,10
+Bahrain,2022 Q3,17
+Bangladesh,2021 Q1,11
+Bangladesh,2021 Q2,17
+Bangladesh,2021 Q3,17
+Bangladesh,2021 Q4,26
+Bangladesh,2022 Q1,13
+Bangladesh,2022 Q2,1
+Bangladesh,2022 Q3,7
+China,2021 Q1,1865
+China,2021 Q2,1500
+China,2021 Q3,2155
+China,2021 Q4,2290
+China,2022 Q1,2940
+China,2022 Q2,1387
+China,2022 Q3,983
+Hong Kong,2021 Q1,28
+Hong Kong,2021 Q2,13
+Hong Kong,2021 Q3,12
+Hong Kong,2021 Q4,21
+Hong Kong,2022 Q1,20
+Hong Kong,2022 Q2,18
+Hong Kong,2022 Q3,18
+India,2021 Q1,1105
+India,2021 Q2,751
+India,2021 Q3,1073
+India,2021 Q4,492
+India,2022 Q1,591
+India,2022 Q2,679
+India,2022 Q3,550
+Indonesia,2021 Q1,58
+Indonesia,2021 Q2,28
+Indonesia,2021 Q3,12
+Indonesia,2021 Q4,6
+Indonesia,2022 Q1,23
+Indonesia,2022 Q2,7
+Indonesia,2022 Q3,11
+Iran,2021 Q1,0
+Iran,2021 Q2,0
+Iran,2021 Q3,20
+Iran,2021 Q4,10
+Iran,2022 Q1,8
+Iran,2022 Q2,5
+Iran,2022 Q3,0
+Iraq,2021 Q1,0
+Iraq,2021 Q2,2
+Iraq,2021 Q3,8
+Iraq,2021 Q4,0
+Iraq,2022 Q1,4
+Iraq,2022 Q2,14
+Iraq,2022 Q3,0
+Israel,2021 Q1,54
+Israel,2021 Q2,47
+Israel,2021 Q3,83
+Israel,2021 Q4,38
+Israel,2022 Q1,29
+Israel,2022 Q2,52
+Israel,2022 Q3,239
+Japan,2021 Q1,175
+Japan,2021 Q2,89
+Japan,2021 Q3,47
+Japan,2021 Q4,227
+Japan,2022 Q1,206
+Japan,2022 Q2,13
+Japan,2022 Q3,3
+Jordan,2021 Q1,18
+Jordan,2021 Q2,21
+Jordan,2021 Q3,15
+Jordan,2021 Q4,7
+Jordan,2022 Q1,50
+Jordan,2022 Q2,4
+Jordan,2022 Q3,6
+Kuwait,2021 Q1,23
+Kuwait,2021 Q2,6
+Kuwait,2021 Q3,3
+Kuwait,2021 Q4,80
+Kuwait,2022 Q1,18
+Kuwait,2022 Q2,1
+Kuwait,2022 Q3,5
+Lebanon,2021 Q1,150
+Lebanon,2021 Q2,149
+Lebanon,2021 Q3,77
+Lebanon,2021 Q4,35
+Lebanon,2022 Q1,55
+Lebanon,2022 Q2,59
+Lebanon,2022 Q3,104
+Malaysia,2021 Q1,77
+Malaysia,2021 Q2,94
+Malaysia,2021 Q3,116
+Malaysia,2021 Q4,113
+Malaysia,2022 Q1,63
+Malaysia,2022 Q2,146
+Malaysia,2022 Q3,165
+Oman,2021 Q1,156
+Oman,2021 Q2,46
+Oman,2021 Q3,13
+Oman,2021 Q4,382
+Oman,2022 Q1,17
+Oman,2022 Q2,14
+Oman,2022 Q3,13
+Pakistan,2021 Q1,44
+Pakistan,2021 Q2,105
+Pakistan,2021 Q3,78
+Pakistan,2021 Q4,83
+Pakistan,2022 Q1,114
+Pakistan,2022 Q2,246
+Pakistan,2022 Q3,172
+Philippines,2021 Q1,2
+Philippines,2021 Q2,10
+Philippines,2021 Q3,61
+Philippines,2021 Q4,18
+Philippines,2022 Q1,15
+Philippines,2022 Q2,3
+Philippines,2022 Q3,14
+Qatar,2021 Q1,11
+Qatar,2021 Q2,36
+Qatar,2021 Q3,26
+Qatar,2021 Q4,41
+Qatar,2022 Q1,8
+Qatar,2022 Q2,24
+Qatar,2022 Q3,7
+Saudi Arabia,2021 Q1,245
+Saudi Arabia,2021 Q2,89
+Saudi Arabia,2021 Q3,125
+Saudi Arabia,2021 Q4,294
+Saudi Arabia,2022 Q1,109
+Saudi Arabia,2022 Q2,24
+Saudi Arabia,2022 Q3,172
+Singapore,2021 Q1,1108
+Singapore,2021 Q2,654
+Singapore,2021 Q3,894
+Singapore,2021 Q4,566
+Singapore,2022 Q1,449
+Singapore,2022 Q2,193
+Singapore,2022 Q3,226
+South Korea,2021 Q1,114
+South Korea,2021 Q2,88
+South Korea,2021 Q3,61
+South Korea,2021 Q4,91
+South Korea,2022 Q1,109
+South Korea,2022 Q2,44
+South Korea,2022 Q3,69
+Sri Lanka,2021 Q1,99
+Sri Lanka,2021 Q2,95
+Sri Lanka,2021 Q3,166
+Sri Lanka,2021 Q4,75
+Sri Lanka,2022 Q1,70
+Sri Lanka,2022 Q2,94
+Sri Lanka,2022 Q3,99
+Syria,2021 Q1,1
+Syria,2021 Q2,0
+Syria,2021 Q3,8
+Syria,2021 Q4,3
+Syria,2022 Q1,0
+Syria,2022 Q2,0
+Syria,2022 Q3,0
+Taiwan,2021 Q1,34
+Taiwan,2021 Q2,7
+Taiwan,2021 Q3,20
+Taiwan,2021 Q4,2
+Taiwan,2022 Q1,16
+Taiwan,2022 Q2,0
+Taiwan,2022 Q3,0
+Thailand,2021 Q1,43
+Thailand,2021 Q2,48
+Thailand,2021 Q3,201
+Thailand,2021 Q4,99
+Thailand,2022 Q1,237
+Thailand,2022 Q2,48
+Thailand,2022 Q3,26
+United Arab Emirates,2021 Q1,317
+United Arab Emirates,2021 Q2,336
+United Arab Emirates,2021 Q3,441
+United Arab Emirates,2021 Q4,286
+United Arab Emirates,2022 Q1,325
+United Arab Emirates,2022 Q2,290
+United Arab Emirates,2022 Q3,314
+Vietnam,2021 Q1,19
+Vietnam,2021 Q2,14
+Vietnam,2021 Q3,26
+Vietnam,2021 Q4,16
+Vietnam,2022 Q1,7
+Vietnam,2022 Q2,45
+Vietnam,2022 Q3,23
+Yemen,2021 Q1,2
+Yemen,2021 Q2,0
+Yemen,2021 Q3,36
+Yemen,2021 Q4,8
+Yemen,2022 Q1,0
+Yemen,2022 Q2,0
+Yemen,2022 Q3,0
+Australia,2021 Q1,16
+Australia,2021 Q2,30
+Australia,2021 Q3,24
+Australia,2021 Q4,40
+Australia,2022 Q1,61
+Australia,2022 Q2,46
+Australia,2022 Q3,41
+New Zealand,2021 Q1,9
+New Zealand,2021 Q2,18
+New Zealand,2021 Q3,7
+New Zealand,2021 Q4,6
+New Zealand,2022 Q1,4
+New Zealand,2022 Q2,14
+New Zealand,2022 Q3,8
