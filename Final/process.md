@@ -13,7 +13,7 @@ was only able to be downloaded in pdf form. I then converted all the excel files
 ![Plot2](data cleanin 2.png)
 
 Below is an updated list of sources:
-- [Eurostat](https://ec.europa.eu/eurostat/data/database0
+- [Eurostat](https://ec.europa.eu/eurostat/data/database)
 - [Transit Malta](https://www.transport.gov.mt)
 - [Malta Tourism Authority](https://www.mta.com.mt/en/home)
 
