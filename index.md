@@ -20,6 +20,6 @@ Graduate Student in Urban Design at Iowa State University
 - Interactive Tableau Dashboard [Assignment 7](Assignments/Assignment7/assign7.html)
 
 ### Final Project:
-- Tableau Story [Malta & its International Connections]()
+- Tableau Story [Malta & its International Connections](Final/finalproject.html)
 - Proposal [Webpage](Assignments/assign5.md)
 - Process [Webpage]()
